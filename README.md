@@ -8,3 +8,4 @@ WallX v0.0.1 (First Version):
   - Mission Control & App Exposé Background Support
   - Completely Free
   - Minimal CPU Usage (roughly 2%)
+If there are any issues, please put it in the **Issues** tab
