@@ -1,3 +1,4 @@
+(Note that the app was previously supposed to be called LiveDesk but the name was tooken by someone else)
 I will upload the updates of my app below:
 WallX v0.0.1 (First Version):
   - App Released
