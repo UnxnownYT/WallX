@@ -18,6 +18,7 @@
 4. Launch WallX — it lives in your menu bar.
 
 > **Note:** On first launch, macOS may warn that the app is from an unidentified developer. Right-click the app and select **Open**, then confirm.
+>
 > If it says that WallX is damaged and can't be opened, run 'xattr -cr /Applications/WallX/' in your terminal
 
 ## Usage
