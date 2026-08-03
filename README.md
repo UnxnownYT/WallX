@@ -37,6 +37,13 @@
 
 - [x] Release
 - [x] Adding the icons
-- [ ] Settings
-- [ ] Audio playback support
-- [ ] Per-display wallpaper customization
+- [x] Settings
+- [x] Audio playback support
+- [x] Per-display wallpaper customization
+- [x] Opacity
+- [x] Low Power Mode
+- [x] Pause options
+- [x] Wallpaper Library
+- [x] Playlist Rotation
+- [x] Volume Slider
+- [ ] 
