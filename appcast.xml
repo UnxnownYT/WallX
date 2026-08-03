@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>WallX</title>
+    <link>https://github.com/UnxnownYT/WallX</link>
+    <description>Live video wallpapers for macOS.</description>
+    <language>en</language>
+
+    <item>
+      <title>WallX 0.0.3</title>
+      <pubDate>Sun, 02 Aug 2026 20:37:00 +0800</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>WallX v0.0.3</h2>
+        <ul>
+          <li><b>Wallpaper Library</b> with thumbnail previews of your last 5 videos.</li>
+          <li><b>Playlist rotation</b> (15 min / 30 min / hourly / on wake) with Shuffle.</li>
+          <li><b>Per-display videos</b> — a different video on each monitor.</li>
+          <li><b>Low Power mode</b> — drops to 15 FPS on battery.</li>
+          <li>Live <b>Opacity</b> and <b>Volume</b> sliders, and a <b>frame-rate slider</b>.</li>
+          <li>Pause on Battery and Pause in Fullscreen options.</li>
+          <li>Reorganized menu, single Start/Stop toggle, Reset All Settings.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/UnxnownYT/WallX/releases/download/v0.0.3/WallX.zip"
+        sparkle:version="3"
+        sparkle:shortVersionString="0.0.3"
+        type="application/octet-stream"
+        length="FILE_SIZE_IN_BYTES"
+        sparkle:edSignature="ED_SIGNATURE_FROM_sign_update" />
+    </item>
+
+  </channel>
+</rss>
