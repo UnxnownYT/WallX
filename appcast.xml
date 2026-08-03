@@ -8,8 +8,8 @@
 
     <item>
       <title>WallX 0.0.3</title>
-      <pubDate>Mon, 03 Aug 2026 09:49:00 +0800</pubDate>
-      <sparkle:version>BUILD_NUMBER</sparkle:version>
+      <pubDate>Mon, 03 Aug 2026 09:57:00 +0800</pubDate>
+      <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[
@@ -26,7 +26,7 @@
       ]]></description>
       <enclosure
         url="https://github.com/UnxnownYT/WallX/releases/download/v0.0.3/WallX.zip"
-        sparkle:version="BUILD_NUMBER"
+        sparkle:version="1"
         sparkle:shortVersionString="0.0.3"
         type="application/octet-stream"
         length="5462940"
