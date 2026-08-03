@@ -46,4 +46,9 @@
 - [x] Wallpaper Library
 - [x] Playlist Rotation
 - [x] Volume Slider
+- [x] Now Playing Tab
+- [x] Drag a Video to the Icon support
+- [x] Dual monitor support
+- [ ] UI Revamp
+- [ ] "Open With..." option
 - [ ] 
