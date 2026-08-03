@@ -7,6 +7,30 @@
     <language>en</language>
 
     <item>
+      <title>WallX 0.0.4</title>
+      <pubDate>Mon, 03 Aug 2026 17:25:00 +0800</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>WallX v0.0.4</h2>
+        <ul>
+          <li><b>Now Playing</b> — see the current wallpaper's name + thumbnail at the top of the menu.</li>
+          <li><b>Global keyboard shortcuts</b> — rebindable hotkeys for Start/Stop and Next Wallpaper.</li>
+          <li><b>Drag &amp; drop</b> — drop a video onto the WallX menu-bar icon to set it.</li>
+          <li>Multi-monitor rendering improvements (independent player per display).</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/UnxnownYT/WallX/releases/download/v0.0.4/WallX.zip"
+        sparkle:version="2"
+        sparkle:shortVersionString="0.0.4"
+        type="application/octet-stream"
+        length="5746139"
+        sparkle:edSignature="K5cxwrwidZBLC0feW5MokOKbaN9E5Cq2vbQmMNzpW/DEXzlCs3SGfPwlXidu/MFoMXvmW4PCBD/zUluD+obNBw==" />
+    </item>
+
+    <item>
       <title>WallX 0.0.3</title>
       <pubDate>Mon, 03 Aug 2026 09:57:00 +0800</pubDate>
       <sparkle:version>1</sparkle:version>
@@ -15,13 +39,9 @@
       <description><![CDATA[
         <h2>WallX v0.0.3</h2>
         <ul>
-          <li><b>Wallpaper Library</b> with thumbnail previews of your last 5 videos.</li>
-          <li><b>Playlist rotation</b> (15 min / 30 min / hourly / on wake) with Shuffle.</li>
-          <li><b>Per-display videos</b> — a different video on each monitor.</li>
-          <li><b>Low Power mode</b> — drops to 15 FPS on battery.</li>
-          <li>Live <b>Opacity</b> and <b>Volume</b> sliders, and a <b>frame-rate slider</b>.</li>
-          <li>Pause on Battery and Pause in Fullscreen options.</li>
-          <li>Reorganized menu, single Start/Stop toggle, Reset All Settings.</li>
+          <li>Wallpaper Library with thumbnails, playlist rotation + shuffle.</li>
+          <li>Per-display videos, Low Power mode, live opacity/volume sliders.</li>
+          <li>Frame-rate slider, pause options, auto-update.</li>
         </ul>
       ]]></description>
       <enclosure
