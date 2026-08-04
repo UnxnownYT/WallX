@@ -20,7 +20,7 @@ WallX is a free, open-source app that isn't notarized by Apple (notarization req
 
 1. Download `WallX.zip` from the [latest release](https://github.com/UnxnownYT/WallX/releases/latest) and unzip it.
 2. Move **WallX.app** to your **Applications** folder.
-3. **Right-click** (or Control-click) WallX.app → **Open**.
+3. **Double-click** WallX.app, that will open it.
 4. In the dialog that appears, click **Open** again.
 
 You only need to do this once. After that, WallX opens normally, and updates install automatically.
