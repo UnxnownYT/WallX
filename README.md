@@ -12,14 +12,38 @@
 
 ## Installation
 
-1. Download the latest release from the [Releases](../../releases) page.
-2. Unzip the WallX.zip
-3. Move `WallX.app` to your `Applications` folder.
-4. Launch WallX — it lives in your menu bar.
+## Installing WallX
 
-> **Note:** On first launch, macOS may warn that the app is from an unidentified developer. Right-click the app and select **Open**, then confirm.
->
-> If it says that WallX is damaged and can't be opened, run `xattr -cr /Applications/WallX/` in your terminal
+WallX is a free, open-source app that isn't notarized by Apple (notarization requires a paid Apple Developer account). It's completely safe — macOS is just cautious about apps it can't automatically verify. Here's how to open it the first time:
+
+### First launch
+
+1. Download `WallX.zip` from the [latest release](https://github.com/UnxnownYT/WallX/releases/latest) and unzip it.
+2. Move **WallX.app** to your **Applications** folder.
+3. **Right-click** (or Control-click) WallX.app → **Open**.
+4. In the dialog that appears, click **Open** again.
+
+You only need to do this once. After that, WallX opens normally, and updates install automatically.
+
+### If you don't see an "Open" option
+
+On newer macOS versions, instead:
+
+1. Double-click WallX.app (it'll be blocked — that's expected).
+2. Open **System Settings → Privacy & Security**.
+3. Scroll down to the message about WallX and click **Open Anyway**.
+
+### Still stuck?
+
+You can clear the quarantine flag manually in Terminal:
+
+```
+xattr -dr com.apple.quarantine /Applications/WallX.app
+```
+
+---
+
+**Why this step exists:** Apple charges $99/year for the certificate that removes this prompt. WallX is free, so it skips that — the tradeoff is this one-time manual open. The app is open-source; you can review the code or build it yourself anytime.
 
 ## Usage
 
