@@ -41,7 +41,7 @@ xattr -dr com.apple.quarantine /Applications/WallX.app
 
 ---
 
-**Why this step exists:** Apple charges $99/year for the certificate that removes this prompt. WallX is free, so it skips that — the tradeoff is this one-time manual open.
+**Why this step exists:** Apple charges $99/year for the certificate that removes this prompt. WallX is free, so it skips that — the tradeoff is this one-time manual open. I will make this app open-source after v0.0.6 since it still is developing.
 
 ## Usage
 
