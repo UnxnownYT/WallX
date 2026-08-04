@@ -10,8 +10,6 @@
 - **Retina-ready** — Optimized for high-resolution Mac displays, from MacBooks to Studio Displays.
 - **Lightweight & native** — A clean, unobtrusive menu bar app built for macOS that stays out of your way.
 
-## Installation
-
 ## Installing WallX
 
 WallX is a free, open-source app that isn't notarized by Apple (notarization requires a paid Apple Developer account). It's completely safe — macOS is just cautious about apps it can't automatically verify. Here's how to open it the first time:
@@ -43,7 +41,7 @@ xattr -dr com.apple.quarantine /Applications/WallX.app
 
 ---
 
-**Why this step exists:** Apple charges $99/year for the certificate that removes this prompt. WallX is free, so it skips that — the tradeoff is this one-time manual open. The app is open-source; you can review the code or build it yourself anytime.
+**Why this step exists:** Apple charges $99/year for the certificate that removes this prompt. WallX is free, so it skips that — the tradeoff is this one-time manual open.
 
 ## Usage
 
