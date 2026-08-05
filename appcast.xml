@@ -18,7 +18,7 @@
             <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Unxnown/WallX/releases/download/v1.0.5/WallX.zip"
+                url="https://github.com/UnxnownYT/WallX/releases/download/v1.0.5/WallX.zip"
                 sparkle:edSignature="yazIT7NZ4Vdfd7pdP5hNn6x+ywHwNYwVJaGaPXkhAHEqrCJtlDaakIinEp3JPsJzxDUwME8hAi17SAjQmapABQ=="
                 length="5893644"
                 type="application/octet-stream" />
@@ -30,7 +30,7 @@
             <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Unxnown/WallX/releases/download/v0.0.4/WallX.zip"
+                url="https://github.com/UnxnownYT/WallX/releases/download/v0.0.4/WallX.zip"
                 sparkle:edSignature="K5cxwrwidZBLC0feW5MokOKbaN9E5Cq2vbQmMNzpW/DEXzlCs3SGfPwlXidu/MFoMXvmW4PCBD/zUluD+obNBw=="
                 length="5746139"
                 type="application/octet-stream" />
@@ -42,7 +42,7 @@
             <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/Unxnown/WallX/releases/download/v0.0.3/WallX.zip"
+                url="https://github.com/UnxnownYT/WallX/releases/download/v0.0.3/WallX.zip"
                 sparkle:edSignature="dwZeJQhwp+..."
                 length="5462940"
                 type="application/octet-stream" />
