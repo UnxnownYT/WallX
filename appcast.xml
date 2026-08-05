@@ -1,57 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>WallX</title>
-    <link>https://github.com/UnxnownYT/WallX</link>
-    <description>Live video wallpapers for macOS.</description>
-    <language>en</language>
-
-    <item>
-      <title>WallX 0.0.4</title>
-      <pubDate>Mon, 03 Aug 2026 17:25:00 +0800</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        <h2>WallX v0.0.4</h2>
-        <ul>
-          <li><b>Now Playing</b> — see the current wallpaper's name + thumbnail at the top of the menu.</li>
-          <li><b>Global keyboard shortcuts</b> — rebindable hotkeys for Start/Stop and Next Wallpaper.</li>
-          <li><b>Drag &amp; drop</b> — drop a video onto the WallX menu-bar icon to set it.</li>
-          <li>Multi-monitor rendering improvements (independent player per display).</li>
-        </ul>
-      ]]></description>
-      <enclosure
-        url="https://github.com/UnxnownYT/WallX/releases/download/v0.0.4/WallX.zip"
-        sparkle:version="2"
-        sparkle:shortVersionString="0.0.4"
-        type="application/octet-stream"
-        length="5746139"
-        sparkle:edSignature="K5cxwrwidZBLC0feW5MokOKbaN9E5Cq2vbQmMNzpW/DEXzlCs3SGfPwlXidu/MFoMXvmW4PCBD/zUluD+obNBw==" />
-    </item>
-
-    <item>
-      <title>WallX 0.0.3</title>
-      <pubDate>Mon, 03 Aug 2026 09:57:00 +0800</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[
-        <h2>WallX v0.0.3</h2>
-        <ul>
-          <li>Wallpaper Library with thumbnails, playlist rotation + shuffle.</li>
-          <li>Per-display videos, Low Power mode, live opacity/volume sliders.</li>
-          <li>Frame-rate slider, pause options, auto-update.</li>
-        </ul>
-      ]]></description>
-      <enclosure
-        url="https://github.com/UnxnownYT/WallX/releases/download/v0.0.3/WallX.zip"
-        sparkle:version="1"
-        sparkle:shortVersionString="0.0.3"
-        type="application/octet-stream"
-        length="5462940"
-        sparkle:edSignature="dwZeJQhwp+COlLLhZrq6wvUMEVqvD+zDV65xec8HjB4MiL7qJ9tXAB/HCgwMBfLx3z/dLsTWl2GxIWEVKQJLAg==" />
-    </item>
-
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>WallX</title>
+        <item>
+            <title>Version 1.0.5</title>
+            <description><![CDATA[
+                <h2>What's New in 1.0.5</h2>
+                <ul>
+                    <li>Brand-new control panel — a redesigned menu-bar popover with a Now Playing preview, and grouped Display, Library, and Settings sections.</li>
+                    <li>Per-display opacity — set a different brightness for each monitor.</li>
+                    <li>First-launch welcome screen to get you started.</li>
+                    <li>Under-the-hood rework for a smoother, more reliable experience.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 05 Aug 2026 17:52:00 +0800</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Unxnown/WallX/releases/download/v1.0.5/WallX.zip"
+                sparkle:edSignature="yazIT7NZ4Vdfd7pdP5hNn6x+ywHwNYwVJaGaPXkhAHEqrCJtlDaakIinEp3JPsJzxDUwME8hAi17SAjQmapABQ=="
+                length="5893644"
+                type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Version 0.0.4</title>
+            <pubDate>Mon, 04 Aug 2026 12:00:00 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Unxnown/WallX/releases/download/v0.0.4/WallX.zip"
+                sparkle:edSignature="K5cxwrwidZBLC0feW5MokOKbaN9E5Cq2vbQmMNzpW/DEXzlCs3SGfPwlXidu/MFoMXvmW4PCBD/zUluD+obNBw=="
+                length="5746139"
+                type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Version 0.0.3</title>
+            <pubDate>Sun, 03 Aug 2026 12:00:00 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Unxnown/WallX/releases/download/v0.0.3/WallX.zip"
+                sparkle:edSignature="dwZeJQhwp+..."
+                length="5462940"
+                type="application/octet-stream" />
+        </item>
+    </channel>
 </rss>
