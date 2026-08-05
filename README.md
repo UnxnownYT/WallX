@@ -41,7 +41,7 @@ xattr -dr com.apple.quarantine /Applications/WallX.app
 
 ---
 
-**Why this step exists:** Apple charges $99/year for the certificate that removes this prompt. WallX is free, so it skips that — the tradeoff is this one-time manual open. I will make this app open-source after v0.0.6 since it still is developing.
+**Why this step exists:** Apple charges $99/year for the certificate that removes this prompt. WallX is free, so it skips that — the tradeoff is this one-time manual open. I will make this app open-source after v1.0.6 since it still is developing.
 
 ## Usage
 
@@ -71,6 +71,7 @@ xattr -dr com.apple.quarantine /Applications/WallX.app
 - [x] Now Playing Tab
 - [x] Drag a Video to the Icon support
 - [x] Dual monitor support
-- [ ] UI Revamp
-- [ ] "Open With..." option
-- [ ] 
+- [x] UI Revamp
+- [x] "Open With..." option
+
+More coming soon... (i need more suggestions 😭)
