@@ -3,6 +3,33 @@
     <channel>
         <title>WallX</title>
         <item>
+            <title>Version 1.0.6</title>
+            <description><![CDATA[
+                <h2>Live Lock Screen Wallpapers</h2>
+                <p>Your own videos now play on the macOS Lock Screen. WallX adds its own collection to System Settings &rarr; Wallpaper — pick a video there and it becomes your real lock-screen wallpaper, behind the password field, surviving reboots, with no Aerial replacement needed.</p>
+                <h3>Set it up</h3>
+                <ol>
+                    <li>Play a video in WallX, then click <strong>Add to Lock Screen</strong>.</li>
+                    <li>Open <strong>System Settings &rarr; Wallpaper</strong> and choose it under <strong>WallX</strong>.</li>
+                    <li>Lock your screen.</li>
+                </ol>
+                <h3>Also in this release</h3>
+                <ul>
+                    <li><strong>Reload Lock Screen</strong> — one tap re-applies your wallpaper if macOS is slow to refresh it.</li>
+                    <li>Streamlined the lock-screen tools around the new system-integrated engine.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 06 Aug 2026 12:40:00 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/UnxnownYT/WallX/releases/download/v1.0.6/WallX.zip"
+                sparkle:edSignature="FhO/wSGNrrtEkWYpqGCgSkG6eUErHp8TriL6my+a/YfsMVnJ1D4MCZVkth7hqSjy/WrvIXTTJMQaoYOC+VGmBg=="
+                length="6078749"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 1.0.5</title>
             <description><![CDATA[
                 <h2>What's New in 1.0.5</h2>
