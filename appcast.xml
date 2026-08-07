@@ -3,6 +3,26 @@
     <channel>
         <title>WallX</title>
         <item>
+            <title>Version 1.0.7</title>
+            <description><![CDATA[
+                <h2>What's New in 1.0.7</h2>
+                <ul>
+                    <li>Fixed: the Lock Screen wallpaper no longer freezes on battery — it now plays at full quality regardless of power, matching Apple's Aerials.</li>
+                    <li>New: <strong>Remove from Lock Screen</strong> — clear WallX's wallpaper right from the menu in one tap.</li>
+                    <li>Improved lock, unlock, and sleep/wake reliability.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 07 Aug 2026 14:17:00 +0800</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/UnxnownYT/WallX/releases/download/v1.0.7/WallX.zip"
+                sparkle:edSignature="v0WrCuxqwZTtUbRtW7BGoSGngt2xyI5zj/f1T0d8nyjaIXtW3dk/JFxA9cKzk3cJItiQ5tz0j9JIY9bBOzzKBg=="
+                length="6072847"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 1.0.6</title>
             <description><![CDATA[
                 <h2>Live Lock Screen Wallpapers</h2>
