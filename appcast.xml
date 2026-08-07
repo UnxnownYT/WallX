@@ -3,6 +3,24 @@
     <channel>
         <title>WallX</title>
         <item>
+            <title>Version 1.0.7.1</title>
+            <description><![CDATA[
+                <h2>What's New in 1.0.7.1</h2>
+                <ul>
+                    <li>Added the <strong>Remove from Lock Screen</strong> button to the menu — clear WallX's wallpaper in one tap.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 07 Aug 2026 20:12:00 +0800</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/UnxnownYT/WallX/releases/download/v1.0.7.1/WallX.zip"
+                sparkle:edSignature="y+LaEVZsViCzCeSQOY6+OqoSoPjBoFmiOjimfx5k6I0Z8Jhb5cYbJzXmBpcY6RE7D8Mq5tSVwIlLpdmRRZaRAQ=="
+                length="6074646"
+                type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 1.0.7</title>
             <description><![CDATA[
                 <h2>What's New in 1.0.7</h2>
