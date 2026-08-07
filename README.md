@@ -21,7 +21,6 @@ WallX is a free, open-source app that isn't notarized by Apple (notarization req
 3. **Double-click** WallX.app, that will open it.
 4. In the dialog that appears, click **Open** again.
 
-   <img width="910" height="366" alt="CleanShot 2026-08-06 at 12 46 42@2x" src="https://github.com/user-attachments/assets/7145397a-db0d-4628-b462-2d367f9d8797" />
 
 
 You only need to do this once. After that, WallX opens normally, and updates install automatically.
@@ -33,6 +32,8 @@ On newer macOS versions, instead:
 1. Double-click WallX.app (it'll be blocked — that's expected).
 2. Open **System Settings → Privacy & Security**.
 3. Scroll down to the message about WallX and click **Open Anyway**.
+
+   <img width="910" height="366" alt="CleanShot 2026-08-06 at 12 46 42@2x" src="https://github.com/user-attachments/assets/7145397a-db0d-4628-b462-2d367f9d8797" />
 
 ### Still stuck?
 
@@ -76,5 +77,7 @@ xattr -dr com.apple.quarantine /Applications/WallX.app
 - [x] Dual monitor support
 - [x] UI Revamp
 - [x] "Open With..." option
+- [x] Wallpaper entries
+- [x] Reload Lock-Screen
 
 More coming soon... (i need more suggestions 😭)
