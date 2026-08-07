@@ -52,7 +52,7 @@ xattr -dr com.apple.quarantine /Applications/WallX.app
 1. Click the WallX icon in your menu bar (the waterdrop).
 2. Select **Choose Video…** and pick a `.mp4` or `.mov` file.
 3. Your live wallpaper is applied instantly across all displays.
-4. If you want to add it to the Lock Screen, Press 'Lock Screen > Replace Lock Screen with Current Video (note that it only works for Aerial wallpapers not 
+4. If you want to add it to the Lock Screen, go to the 'Lock Screen' section and click 'Add Current Video to Lock Screen' or for the old one 'Replace Aerial With Current Wallpaper'
 
 ## Requirements
 
