@@ -2,6 +2,29 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>WallX</title>
+            <item>
+        <title>WallX 1.0.8</title>
+        <sparkle:version>8</sparkle:version>
+        <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+        <description><![CDATA[
+            <ul>
+                <li><b>Self-healing lock screen</b> — if the active wallpaper's file goes missing, WallX now automatically falls back to your most recent video instead of dropping to a solid color.</li>
+                <li><b>Current wallpaper shown in the menu</b> — the popover now tells you which video is set as your lock screen.</li>
+                <li><b>Discord + Help buttons</b> — jump straight to the community server and project page from the menu.</li>
+                <li><b>Screensaver support</b> — use your WallX videos as a screensaver too (Settings → Screen Saver). Quietly added in 1.0.7.2 — give it a try if you missed it.</li>
+            </ul>
+        ]]></description>
+        <pubDate>Sat, 08 Aug 2026 19:37:00 +0800</pubDate>
+        <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        <enclosure
+            url="https://github.com/UnxnownYT/WallX/releases/download/v1.0.8/WallX.zip"
+            sparkle:version="8"
+            sparkle:shortVersionString="1.0.8"
+            sparkle:edSignature="cmx95ezScr6eMZLxxxAh+rEQcOGlnZyuPuFVKT52ZNttLf/QOlgL5ONPogb6YqfGk39Xy2SqLuzhj1MdOHnKCA=="
+            length="6049681"
+            type="application/octet-stream" />
+                </item>
+
                 <item>
             <title>Version 1.0.7.2</title>
             <description><![CDATA[
