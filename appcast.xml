@@ -2,6 +2,23 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>WallX</title>
+                <item>
+            <title>Version 1.0.7.2</title>
+            <description><![CDATA[
+                <h2>What's New in 1.0.7.2</h2>
+                <p>Fixes for opening issue</p>
+                <p><strong>First launch:</strong> macOS may say "WallX cannot be opened." Right-click (or Control-click) WallX &rarr; <strong>Open</strong> &rarr; <strong>Open</strong>. You only need to do this once. (Or: System Settings &rarr; Privacy &amp; Security &rarr; <strong>Open Anyway</strong>.)</p>
+            ]]></description>
+            <pubDate>Sat, 08 Aug 2026 17:07:00 +0800</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/UnxnownYT/WallX/releases/download/v1.0.7.2/WallX.zip"
+                sparkle:edSignature="ybEq3vRvzmXf4PMLCQbGo0WEq8N32pf/UPifcdHh+xAgHwmw9NcDcGPTf3Qo15PAUwPz2UKWNHBPkXmF8cVuAQ=="
+                length="6035943"
+                type="application/octet-stream" />
+        </item>
         <item>
             <title>Version 1.0.7.1</title>
             <description><![CDATA[
