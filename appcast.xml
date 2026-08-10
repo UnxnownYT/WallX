@@ -2,6 +2,26 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>WallX</title>
+        <item>
+    <title>WallX 1.0.9</title>
+    <sparkle:version>9</sparkle:version>
+    <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+    <description><![CDATA[
+        <ul>
+            <li><b>Lock screen fit control</b> — choose how your video fills the lock screen: Fill (cover the whole screen) or Fit (show the entire video with letterbox bars). In the Lock Screen section of the menu.</li>
+            <li><b>New app icon</b> — a fresh waterdrop-themed icon to match the app's identity.</li>
+        </ul>
+    ]]></description>
+    <pubDate>Mon, 10 Aug 2026 11:40:00 +0800</pubDate>
+    <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    <enclosure
+        url="https://github.com/UnxnownYT/WallX/releases/download/v1.0.9/WallX.zip"
+        sparkle:version="9"
+        sparkle:shortVersionString="1.0.9"
+        sparkle:edSignature="4WHqyOZfhzv0l+xjEDLj73w6p6flUoFBF2uXqDh20e/oMONvNusR2aM3ky+x4CPT8/eJIXFcVvQkrP1nw3g6DQ=="
+        length="6719736"
+        type="application/octet-stream" />
+            </item>
             <item>
         <title>WallX 1.0.8</title>
         <sparkle:version>8</sparkle:version>
