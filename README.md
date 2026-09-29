@@ -1,4 +1,5 @@
-# WallX
+# WallX (APP IS NO LONGER MAINTAINED) 
+-# lost the file
 
 **Live wallpapers for your Mac.** WallX turns your own video files into dynamic, moving wallpapers.
 
